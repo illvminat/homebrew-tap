@@ -2,10 +2,10 @@ cask "ccwidget" do
   version "0.3.5"
   sha256 "9ba6b5302c5bd8d545f6e2d4bc20246a448398a8954419c7559bb6330e9f4b6e"
 
-  url "https://github.com/davidkremlev/ccwidget/releases/download/v#{version}/CCWidget-#{version}.dmg"
+  url "https://github.com/illvminat/ccwidget/releases/download/v#{version}/CCWidget-#{version}.dmg"
   name "Usage Widget for Claude Code"
   desc "Desktop widget for Claude Code limits, context window and quota estimate"
-  homepage "https://github.com/davidkremlev/ccwidget"
+  homepage "https://github.com/illvminat/ccwidget"
 
   livecheck do
     url :url

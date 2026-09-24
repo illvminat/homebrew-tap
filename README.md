@@ -1,10 +1,10 @@
 # Homebrew tap
 
-One cask, for [ccwidget](https://github.com/davidkremlev/ccwidget) — a macOS
+One cask, for [ccwidget](https://github.com/illvminat/ccwidget) — a macOS
 desktop widget showing how much of a Claude Code subscription has been spent.
 
 ```sh
-brew install --cask davidkremlev/tap/ccwidget
+brew install --cask illvminat/tap/ccwidget
 ```
 
 Uninstalling undoes the configuration as well as removing the app: the widget
